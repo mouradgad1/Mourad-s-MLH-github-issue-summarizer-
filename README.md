@@ -22,5 +22,4 @@ This tool connects to the GitHub API and gets the list of issues from the reposi
 
 
 ```bash
-git clone https://github.com/mouradgad1/github-issue-summarizer.git
-cd github-issue-summarizer
+python mourad_main.py <owner/repo>
